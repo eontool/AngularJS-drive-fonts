@@ -1,0 +1,21 @@
+body{
+    background:#FDFDFD;
+    padding: 50px;
+}
+
+h1, h3{
+    font-family: 'Arvo', serif;
+    font-weight: normal;
+}
+
+h1 span{
+    color:#46a546;
+}
+
+table thead tr th, table tbody tr td{
+    padding: 10px;
+}
+
+table{
+    margin-top: 30px;
+}
